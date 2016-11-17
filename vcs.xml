@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/kitakitabauer/go-spreadsheet-client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kitakitabauer/liverpool-recommendation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/go/src/github.com/kitakitabauer" />
+    <option name="cloneParentDir" value="$USER_HOME$/go/src/github.com/awaa" />
   </component>
 </application>
