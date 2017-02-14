@@ -4,6 +4,7 @@
       <mapping pattern="sandboxReceipt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="link_facebook" type="YAML" />
+      <mapping pattern="unlink_facebook" type="YAML" />
     </extensionMap>
   </component>
 </application>
