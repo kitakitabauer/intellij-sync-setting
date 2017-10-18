@@ -62,7 +62,7 @@
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="hcl" />
+      <option name="fileExtension" value="tf" />
       <option name="immediateSync" value="true" />
       <option name="name" value="terraform fmt" />
       <option name="output" value="" />
