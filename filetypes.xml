@@ -5,6 +5,7 @@
       <mapping pattern="latest" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping pattern="link_facebook" type="YAML" />
       <mapping pattern="unlink_facebook" type="YAML" />
